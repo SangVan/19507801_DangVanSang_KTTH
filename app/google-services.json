@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617311574828",
+    "project_id": "dangvansang-b156d",
+    "storage_bucket": "dangvansang-b156d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617311574828:android:27ce45e18918cca8e0ea89",
+        "android_client_info": {
+          "package_name": "com.example.a19507801_dangvansang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617311574828-7t0doirg0ne6ej2l19j1e5dcr8rlhlmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWIzvDKxjKgIftRW7rSaJr3mT3FY3JwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617311574828-7t0doirg0ne6ej2l19j1e5dcr8rlhlmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
